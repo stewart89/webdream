@@ -1,4 +1,4 @@
-##Feladatmegoldás
+## Feladatmegoldás
 
 #### 1. A feladat php 8.2 php és Larave 10-es keretrendszerre épül. Az adatbázis mysql.
 
